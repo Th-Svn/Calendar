@@ -25,23 +25,6 @@ textarea{
   white-space: pre-wrap;
 }
 
-.time p {
-  background-color: rgb(173, 171, 169);
-  padding: 8px;
-  text-align: center;
-
-}
-
-.New-task {
-  width: 100%;
-  background-color: cadetblue;
-  padding: 15px;
-}
-
-.save-button {
-  padding: 15px;
-}
-
 .hour {
   background-color: #ffffff;
   color: #000000;
